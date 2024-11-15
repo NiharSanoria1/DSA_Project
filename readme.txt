@@ -35,9 +35,4 @@ Usage
 
 *** Use keys W, S to navigate Menu, Q to Go back, and X to select
 
-Contributors
-Saurabh Pandey [9922103200]
-Mukund Pandey [9922103212]
-Ayush Talan [9922103205]
-
 
